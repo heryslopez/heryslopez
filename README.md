@@ -15,6 +15,5 @@
 
 ## 🌐 Encuéntrame en
 - LinkedIn: [linkedin.com/in/herys-lopez-337b081bb](https://www.linkedin.com/in/herys-lopez-337b081bb)
-- Email: heryslopez1999@outlook.com  
 ---
 ✨ _"El código limpio es la mejor carta de presentación de un desarrollador."_  
