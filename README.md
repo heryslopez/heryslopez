@@ -20,7 +20,7 @@
 ### 🛠️ Herramientas & Workflow
 - **Control de Versiones:** Git & GitHub.
 - **Testing & API:** Postman.
-- **Modern Dev:** AI-Driven Development (Cursor, Cline, Antigravity).
+- **Modern Dev:** AI-Driven Development (Cursor, Cline).
 
 ---
 
