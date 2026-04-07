@@ -1,6 +1,6 @@
 # 👋 Hola, soy Herys
 
-💻 **Senior Frontend Engineer** con 5 años de experiencia construyendo interfaces escalables. Poseo una sólida base en tecnologías             Backend, lo que me permite diseñar arquitecturas Frontend integrales y optimizar la comunicación entre servicios.
+💻 **Full Stack Developer** con 5 años de experiencia construyendo interfaces escalables. Poseo una sólida base en tecnologías             Backend, lo que me permite diseñar arquitecturas Frontend integrales y optimizar la comunicación entre servicios.
 
 ⚡ Apasionado por escribir código claro, minimalista y orientado a buenas prácticas.
 
